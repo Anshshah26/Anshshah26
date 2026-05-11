@@ -1,3 +1,4 @@
+![Banner](https://github.com/Anshshah26/Anshshah26/blob/main/GitHub%20Banner%20Ansh%20Shah%20with%20Neural%20Network%20Design.png?raw=true)
 # Hi, I'm Ansh Shah 👋
 
 ## 🚀 About Me
