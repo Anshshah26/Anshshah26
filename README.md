@@ -5,6 +5,7 @@
 AI/ML Enthusiast passionate about building intelligent applications using Python, Machine Learning, RAG, and FastAPI.
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI%2FML+Engineer+;+FastAPI+Developer+;Building+RAG+Applications)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack
 - Python
