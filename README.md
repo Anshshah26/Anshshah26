@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ansh Shah 👋
 
-<!--
-**Anshshah26/Anshshah26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+AI/ML Enthusiast passionate about building intelligent applications using Python, Machine Learning, RAG, and FastAPI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- Machine Learning
+- SQL
+- FastAPI
+- LangChain
+- Git & GitHub
+
+---
+
+## 📌 Current Projects
+- SQL Database Analysis Tool
+- RAG AI Assistant
+- FastAPI Backend APIs
+
+---
+
+## 📚 Currently Learning
+- LLM Applications
+- Advanced RAG
+- AI Engineering
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/anshshah25/
+- Email: anshshah2534@gmail.com
