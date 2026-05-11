@@ -34,3 +34,4 @@ AI/ML Enthusiast passionate about building intelligent applications using Python
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/anshshah25/
 - Email: anshshah2534@gmail.com
+- [![My Skills](https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode)](https://skillicons.dev)
